@@ -1,0 +1,7 @@
+C:\Users\GRAND CIRCUS STUDENT\source\repos\Lab3Number\Lab3Number\obj\Debug\Lab3Number.csprojResolveAssemblyReference.cache
+C:\Users\GRAND CIRCUS STUDENT\source\repos\Lab3Number\Lab3Number\obj\Debug\Lab3Number.csproj.CoreCompileInputs.cache
+C:\Users\GRAND CIRCUS STUDENT\source\repos\Lab3Number\Lab3Number\bin\Debug\Lab3Number.exe.config
+C:\Users\GRAND CIRCUS STUDENT\source\repos\Lab3Number\Lab3Number\bin\Debug\Lab3Number.exe
+C:\Users\GRAND CIRCUS STUDENT\source\repos\Lab3Number\Lab3Number\bin\Debug\Lab3Number.pdb
+C:\Users\GRAND CIRCUS STUDENT\source\repos\Lab3Number\Lab3Number\obj\Debug\Lab3Number.exe
+C:\Users\GRAND CIRCUS STUDENT\source\repos\Lab3Number\Lab3Number\obj\Debug\Lab3Number.pdb
